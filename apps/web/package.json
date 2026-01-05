@@ -30,7 +30,7 @@
     "clsx": "^2.1.0",
     "geist": "^1.5.1",
     "lucide-react": "^0.460.0",
-    "next": "15.0.3",
+    "next": "15.0.7",
     "next-auth": "^4.24.11",
     "nodemailer": "^7.0.9",
     "otplib": "^12.0.1",
